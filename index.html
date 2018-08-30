@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Web3 Wallet</title>
+    <link href="./res/open-sans.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="./main-bundle.css">
+    <style>
+      body { margin: 0; padding: 0; font-family: Open Sans; }
+    </style>
+  </head>
+  <body>
+      <div id="app"></div>
+      <script>
+        require('require-ls');
+        var wallet = require('./app/wallet/main.ls');
+        wallet.bootstrap(document.getElementById('app'));
+        require('./renderer.js')
+      </script>
+  </body>
+</html>

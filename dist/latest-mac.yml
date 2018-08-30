@@ -1,0 +1,10 @@
+version: 1.0.0
+files:
+  - url: web3-wallet-1.0.0-mac.zip
+    sha512: 31o2FkUDsrdHwmEEj4D86AKC7aw0PddR2TYWNvFLr4IDijQLn+RXkgrhvMGm2jjopgohOvy1inpNZyJN2T4ghA==
+  - url: web3-wallet-1.0.0.dmg
+    sha512: d9GJhl/4VgO6mbyqgDotEcGTshW4Etzv7isn7Vn5GQ82/orsyrj9Tp+w0bQL8Q9OEQJzz5AQN58Pdgs5/Ybs3Q==
+    size: 66858144
+path: web3-wallet-1.0.0-mac.zip
+sha512: 31o2FkUDsrdHwmEEj4D86AKC7aw0PddR2TYWNvFLr4IDijQLn+RXkgrhvMGm2jjopgohOvy1inpNZyJN2T4ghA==
+releaseDate: '2018-08-28T21:59:43.814Z'

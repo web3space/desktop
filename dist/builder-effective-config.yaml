@@ -1,0 +1,7 @@
+directories:
+  output: dist
+  buildResources: build
+appId: web3.wallet
+mac:
+  category: wallets
+electronVersion: 2.0.0
